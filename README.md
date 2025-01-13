@@ -16,3 +16,6 @@ Final projects and reports from graduate CS/ML courses
 
 [**IST 597\*: Mechanism Design**](https://github.com/neil-ash/course-projects/blob/main/mechanism-design-chores.pdf)
 - Reviews the state-of-the art on fair division of chores ('goods' with negative utility)
+
+[**Independent: Linear Algebra Exercise**](https://github.com/neil-ash/course-projects/blob/main/OLS-PCA-result.pdf)
+- Fun, quick proof showing the relationship between OLS regression and PCA
